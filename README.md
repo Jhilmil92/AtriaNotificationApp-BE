@@ -3,7 +3,7 @@
 **3 easy STEPS to RUN**
 
 
-1. dotnt restore
+1. dotnet restore
 
 2. dotnet build
 
